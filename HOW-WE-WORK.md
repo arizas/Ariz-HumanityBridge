@@ -7,3 +7,15 @@ We welcome all kinds of competencies in our community. Humanitarian professional
 # **Agreements**
 
 As contributors, we believe we can all succeed when we embrace these principles:
+
+Ownership & Code Quality: Take full ownership of assigned issues, delivering high-quality code. Adhere to our developer workflow and limit work-in-progress to two issues at a time.
+
+Participation & Support: Participate daily by promptly responding to requests and supporting fellow contributors.
+
+Visibility & Organization: Maintain visibility on your progress by keeping tickets up to date. Additionally, contribute to triaging tickets to maintain an organized backlog.
+
+Code Review: Code owners should commit to reviewing tickets at least twice a week for approximately one hour. This enables progress and unlocks others.
+
+Risk Identification & Management: Surface and address risks or blockers promptly, working collaboratively to minimize their impact.
+
+* Problem-Solving: Go beyond the acceptance criteria to understand and effectively address the underlying problem.
