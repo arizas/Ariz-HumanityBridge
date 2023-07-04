@@ -39,3 +39,52 @@ To keep track of our progress and manage issues in an efficient way we use a [Ka
 **6. Done:** Items that are shipped to production.
 
 **7. Closed:** Items that we won’t fix or can’t reproduce.
+
+# **Triaging**
+Triaging is the process of reviewing all new issues to ensure they are ready for development. Here's how we do it:
+
+**1. Validation:** Ariz GMS contributors may review new issues in the triage column and determine if they are valid, actionable, and useful. We may update the title or description, verify the reproduction steps, remove duplicates, and apply the appropriate labels.
+
+**2. Prioritization:** Ariz GMS Moderators will work to prioritize issues using these levels:
+
+P0: Critical issues that need immediate attention.
+
+P1: High-priority issues to address next.
+
+P2: Medium-priority issues to address in the coming weeks.
+
+P3: Low-priority issues to address in the future.
+
+**3. Sizing:** Ariz GMS contributors may estimate the level of effort using t-shirt sizes:
+
+XS: 1/2 day
+
+S: 1 day
+
+M: 3 days
+
+L: 1 Week
+
+XL: 2 Weeks
+
+XXL: 2+ Weeks
+
+Please add questions or comments for any clarifications or design needs to help with estimation.
+
+**4. Milestones:** Ariz GMS Moderators will group several related tickets into themes using milestones, such as a new feature or improvements to a specific platform area.
+
+**5. Start/End Dates:** Active Ariz GMS contributors may assign estimated dates to help us plan roadmap and potential resource needs for specific deliverables.
+
+Once an item is triaged, we move it to the Backlog column.
+
+# **Workflow**
+Our workflow guides us through managing issues and pull requests from start to finish. It consists of the following steps:
+
+
+
+# **Communication**
+We use the following channels for communication:
+
+
+
+Thank you for your commitment to the Ariz GMS community! We look forward to collaborating with you.
