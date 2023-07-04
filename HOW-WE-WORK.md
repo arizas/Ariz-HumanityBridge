@@ -19,3 +19,23 @@ As contributors, we believe we can all succeed when we embrace these principles:
 * Risk Identification & Management: Surface and address risks or blockers promptly, working collaboratively to minimize their impact.
 
 * Problem-Solving: Go beyond the acceptance criteria to understand and effectively address the underlying problem.
+
+# **Project management**
+
+To keep track of our progress and manage issues in an efficient way we use a [Kanban board](https://github.com/orgs/arizas/projects/7/views/1) The board consists of the following columns.
+
+**0. No status** Suggestions
+
+**1. Triage:** Issues that are approved and need processing, such as adding details, priority, and size.
+
+**2. Backlog:** Issues that are accepted and ready for development.
+
+**3. In Development:** Issues that are in active development.
+
+**4. Blockers:** Issues that are blocked.
+
+**5. In Review:** Issues that are waiting for peer review.
+
+**6. Done:** Items that are shipped to production.
+
+**7. Closed:** Items that we won’t fix or can’t reproduce.
