@@ -71,7 +71,7 @@ XXL: 2+ Weeks
 
 Please add questions or comments for any clarifications or design needs to help with estimation.
 
-**4. Milestones:** Ariz GMS Moderators will group several related tickets into themes using milestones, such as a new feature or improvements to a specific platform area.
+**4. Milestones:** Ariz GMS will group several related tickets into themes using milestones.
 
 **5. Start/End Dates:** Active Ariz GMS contributors may assign estimated dates to help us plan roadmap and potential resource needs for specific deliverables.
 
