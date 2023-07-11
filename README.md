@@ -17,4 +17,12 @@ we especially welcome people with experience and interest in
 
 # **How to contribute**
 
+Anyone is welcome to contribute. Here are ways to get involved:
+
+**- Report issues:** To report a bug or a feature request, please review all open and closed issues to make sure no one has previously created a similar topic.
+
+**- Contribute code:** Review the list of good first issues. You can pick any issues from the Backlog column and indicate your interest by leaving comments. 
+
+**- Triage issues:** You are welcome to help us triage by verifying or reproducing bugs, adding more specific reproduction instructions, or voting on issues by adding a thumbs-up reaction to the issue's description comment.
+
 Please read "how we work"  We look forward to creating together.
