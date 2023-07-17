@@ -78,12 +78,12 @@ Please add questions or comments for any clarifications or design needs to help 
 Once an item is triaged, we move it to the Backlog column.
 
 # **Workflow**
-Our workflow guides us through managing issues and pull requests from start to finish. It consists of the following steps:
-
-
+Our workflow guides us through managing issues and pull requests from start to finish.
 
 # **Communication**
 We use the following channels for communication:
+1. GitHub discussions
+2. Twitter @HelloAriz
 
 
 
