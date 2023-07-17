@@ -25,4 +25,4 @@ Anyone is welcome to contribute. Here are ways to get involved:
 
 **- Triage issues:** You are welcome to help us triage by verifying or reproducing bugs, adding more specific reproduction instructions, or voting on issues by adding a thumbs-up reaction to the issue's description comment.
 
-We communicate primarily over GitHub. Please read "how we work"  We look forward to creating together.
+We communicate primarily over GitHub using the discussions tab and commenting under the different issues. Please read "how we work"  We look forward to creating together.
