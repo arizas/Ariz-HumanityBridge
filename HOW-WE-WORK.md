@@ -6,11 +6,16 @@ We welcome all kinds of competencies in our community. Humanitarian professional
 
 # **How to contribute**
 
-**- Report issues/request a feature:** To report a bug or a feature request, please review all open and closed issues to ensure no one has previously created a similar topic. Create a new Issue/feature and place it with status 0. Please use our Issue/feature template.
+**- Report issues/request a feature:** 
+To report a bug or a feature request, please review all open and closed issues to ensure no one has previously created a similar topic. 
+Create a new item in our project and place it with status 0. 
+Please use our Item template to ensure efficient work and good documentation from step one.
 
-**- Contribute code:** Review the list of good first issues. You can pick any issues from the Backlog column and indicate your interest by leaving comments. 
+**- Solving Issues:** 
+Review the list of good first issues. You can pick any issues from the Backlog column and indicate your interest by leaving comments. 
 
-**- Triage issues:** You are welcome to help us triage by verifying or reproducing bugs, adding more specific reproduction instructions, or voting on issues by adding a thumbs-up reaction to the issue's description comment.
+**- Triage issues:** 
+You are welcome to help us triage by verifying or reproducing bugs, adding more specific reproduction instructions, or voting on issues by adding a thumbs-up reaction to the issue's description comment.
 
 # **Agreement**
 
