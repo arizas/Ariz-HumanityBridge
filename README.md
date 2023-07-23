@@ -1,4 +1,4 @@
-# Welcome to Ariz GMS
+# Welcome to Ariz HumanityBridge
 Ariz GMS's first goal is to become a decentralized Grant management and funding platform. It shall enable NGOs and INGOs to present their projects to donors and receive funding. Further on we would like to utilize DAO to allow a stronger localization and strengthen transparency in all phases of human aid operations
 
 # **About our project**
