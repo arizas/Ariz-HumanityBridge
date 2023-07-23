@@ -17,6 +17,6 @@ we especially welcome people with experience and interest in
 
 # **How to contribute**
 
-Just so you know, anyone is welcome to contribute. Please read our "how we work" to find information on how to contribute. Here are ways to get involved:
+Just so you know, anyone is welcome to contribute. Please read our "how we work" to find information on how to contribute.
 
 We look forward to creating together.
