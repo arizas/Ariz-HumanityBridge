@@ -19,7 +19,7 @@ we especially welcome people with experience and interest in
 
 Anyone is welcome to contribute. Here are ways to get involved:
 
-**- Report issues:** To report a bug or a feature request, please review all open and closed issues to make sure no one has previously created a similar topic.
+**- Report issues/request a feature:** To report a bug or a feature request, please review all open and closed issues to make sure no one has previously created a similar topic. Create a new Issue/feature and place it with status 0. Please use our Issue/feature template.
 
 **- Contribute code:** Review the list of good first issues. You can pick any issues from the Backlog column and indicate your interest by leaving comments. 
 
