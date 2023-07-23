@@ -4,7 +4,15 @@ Welcome to our community of Ariz GMS contributors! Our main goal is to provide a
 This document provides an overview of how we collaborate using lightweight and mostly asynchronous processes.
 We welcome all kinds of competencies in our community. Humanitarian professionals, developers, 
 
-# **Agreements**
+# **How to contribute**
+
+**- Report issues/request a feature:** To report a bug or a feature request, please review all open and closed issues to ensure no one has previously created a similar topic. Create a new Issue/feature and place it with status 0. Please use our Issue/feature template.
+
+**- Contribute code:** Review the list of good first issues. You can pick any issues from the Backlog column and indicate your interest by leaving comments. 
+
+**- Triage issues:** You are welcome to help us triage by verifying or reproducing bugs, adding more specific reproduction instructions, or voting on issues by adding a thumbs-up reaction to the issue's description comment.
+
+# **Agreement**
 
 As contributors, we believe we can all succeed when we embrace these principles:
 
@@ -73,12 +81,7 @@ Please add questions or comments for any clarifications or design needs to help 
 
 **4. Milestones:** Ariz GMS will group several related tickets into themes using milestones.
 
-**5. Start/End Dates:** Active Ariz GMS contributors may assign estimated dates to help us plan roadmap and potential resource needs for specific deliverables.
-
-Once an item is triaged, we move it to the Backlog column.
-
-# **Workflow**
-Our workflow guides us through managing issues and pull requests from start to finish.
+**5. Start/End Dates:** Active Ariz GMS contributors may assign estimated dates to help us plan the roadmap and potential resource needs for specific deliverables. Please ensure that end date and size is updated when accepting an Issue.
 
 # **Communication**
 We use the following channels for communication:
