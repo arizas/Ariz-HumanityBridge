@@ -2,7 +2,8 @@
 Ariz GMS's first goal is to become a decentralized Grant management and funding platform. It shall enable NGOs and INGOs to present their projects to donors and receive funding. Further on we would like to utilize DAO to allow a stronger localization and strengthen transparency in all phases of human aid operations
 
 # **About our project**
-The project is initially governed by Ariz AS, a Norwegian company established in 2022. More than providing an open-source system for INGOs and NGOs, this project will explore how web4 development can be decentralized. Please read our document of objectives.
+The project is initially governed by Ariz AS, a Norwegian company established in 2022. More than providing an open-source Solution for Bridging Humanitarian Aid projects and donors, this project will explore how web4 development can be decentralized. 
+Please read our document of objectives.
 
 # **We welcome co-operation and contribution**
 In this project, we welcome all kinds of competencies to contribute. We celebrate a diverse and inclusive society.
