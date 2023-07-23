@@ -1,15 +1,14 @@
 # **How we work**
 
-Welcome to our community of Ariz GMS contributors! Our main goal is to provide a simplified platform that addresses the following issues within human aid operations; Localization, transfer of funds beyond borders, and corruption.
+Welcome to our community of Ariz HumanityBridge contributors! Our main goal is to provide a simplified platform that addresses the following issues within human aid operations; Localization, transfer of funds beyond borders, and corruption.
 This document provides an overview of how we collaborate using lightweight and mostly asynchronous processes.
-We welcome all kinds of competencies in our community. Humanitarian professionals, developers, 
+We welcome all kinds of competencies in our community.
 
 # **How to contribute**
 
 **- Report issues/request a feature:** 
 To report a bug or a feature request, please review all open and closed issues to ensure no one has previously created a similar topic. 
-Create a new item in our project and place it with status 0. 
-Please use our Item template to ensure efficient work and good documentation from step one.
+Create a new item in our project and place it with status 0. Items will generate issues and move to triage after initial prioritization.
 
 **- Solving Issues:** 
 Review the list of good first issues. You can pick any issues from the Backlog column and indicate your interest by leaving comments. 
